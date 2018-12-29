@@ -1,5 +1,6 @@
 # 2018-open-primaries
 538 data open primaries
+This data was acquired from [this](https://github.com/fivethirtyeight/data) under [this](https://github.com/fivethirtyeight/data/blob/master/LICENSE) license
 
 This folder contains the data behind the stories: 
 
